@@ -1,0 +1,14 @@
+App/.env
+server/.env
+
+App/.env.*
+server/.env.*
+
+!App/.env.example
+!server/.env.example
+
+App/node_modules/
+server/node_modules/
+
+App/dist/
+server/dist/
